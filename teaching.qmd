@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+---
+
+A list of courses I teach:
+
+## Introduction to R with Tidyverse
+A two-day workshop aimed at equipping attendees with the skills to leverage R software for their work. Participants will gain a solid foundation in R programming, Tidyverse, and RMarkdown. This will enable them to carry out reproducible data analysis, visualisation, and effective communication of results using R Markdown, enhancing productivity and impact. 
+
+Next date: 15 - 16 July via [Institute of Statistics and Data Science](https://instats.org/seminar/introduction-to-r-with-tidyverse-2542).
+
+
+## Inferential statistics
+A free, self-paced micro-course offered via [Equations of Disease](https://equationsofdisease.com/courses/inferential-statistics/), introducing two of the most common inferential statistics: *p-values* and *confidence intervals*. Lessons cover the theory behind both statistics and explain their interpretation using a worked example.
+
+
+## Introduction to Statistical thinking
+A software-free training course introducing the concept of statistical thinking: describing data and complex systems in relatively simple terms whilst acknowledging underlying uncertainty. 
+
+## Introduction to regression modelling in R
+
+
+## Beyond GLM: Generalised additive modelling
+
+
+## Beyond GLM: Multilevel modelling
+
+
+## Introduction to spatial data analysis
+
+
+## Introduction to Bayesian statistics: theory and applications in R

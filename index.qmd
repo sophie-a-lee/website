@@ -1,0 +1,7 @@
+---
+title: "S-cubed"
+---
+
+**Welcome!** We are S-cubed, a statistical and educational consultancy led by [Dr. Sophie Lee](/about.html). We are dedicated to making statistics more accessible and engaging for everyone, proving that statistics does not need to be scary!
+
+We have over 10 years' experience in designing and delivering [statistics and R programming courses](/teaching.html) to non-statisticians from many different backgrounds, places, and levels of experience. 

@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "S-cubed courses"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - teaching.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

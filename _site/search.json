@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "S-cubed",
+    "section": "",
+    "text": "Welcome! We are S-cubed, a statistical and educational consultancy led by Dr. Sophie Lee. We are dedicated to making statistics more accessible and engaging for everyone, proving that statistics does not need to be scary!\nWe have over 10 years’ experience in designing and delivering statistics and R programming courses to non-statisticians from many different backgrounds, places, and levels of experience."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am Sophie Lee, a statistician with a passion for showing everyone that statistics does not need to be scary!\nOver the past 10 years, I have written and delivered statistics and R programming courses to people from many different backgrounds and levels of experience. My courses have been attended by a wide range of people, from researchers and university students, to medical doctors and surgeons, to social scientists and anthropologists, to data scientists and economists. I have consistently received excellent feedback about my ability to explain complex ideas in simple terms, the inclusive nature of my courses which encourages active participation, and the detailed materials that I provide participants after all of my courses.\nMy research interests lie in spatial data analysis, planetary health, Bayesian modelling approaches, and epidemiology. During my PhD, I used a combination of existing and novel spatial statistical modelling approaches to better understand the drivers of dengue re-emergence and expansion in Brazil. These models were informed by data from a range of epidemiological, demographic and climatic spatial datasets. I used R software to carry out these analyses and published public online repositories alongside research papers containing detailed code to reproduce model results.\nBesides work, I love to travel and cook. On the weekends, I can usually be found tending to my little greenhouse in my Sheffield garden, baking cakes, or hiking up hills in the Peak District."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "A list of courses I teach:"
+  },
+  {
+    "objectID": "teaching.html#introduction-to-r-with-tidyverse",
+    "href": "teaching.html#introduction-to-r-with-tidyverse",
+    "title": "Teaching",
+    "section": "Introduction to R with Tidyverse",
+    "text": "Introduction to R with Tidyverse\nA two-day workshop aimed at equipping attendees with the skills to leverage R software for their work. Participants will gain a solid foundation in R programming, Tidyverse, and RMarkdown. This will enable them to carry out reproducible data analysis, visualisation, and effective communication of results using R Markdown, enhancing productivity and impact.\nNext date: 15 - 16 July via Institute of Statistics and Data Science."
+  },
+  {
+    "objectID": "teaching.html#inferential-statistics",
+    "href": "teaching.html#inferential-statistics",
+    "title": "Teaching",
+    "section": "Inferential statistics",
+    "text": "Inferential statistics\nA free, self-paced micro-course offered via Equations of Disease, introducing two of the most common inferential statistics: p-values and confidence intervals. Lessons cover the theory behind both statistics and explain their interpretation using a worked example."
+  },
+  {
+    "objectID": "teaching.html#introduction-to-regression-modelling-in-r",
+    "href": "teaching.html#introduction-to-regression-modelling-in-r",
+    "title": "Teaching",
+    "section": "Introduction to regression modelling in R",
+    "text": "Introduction to regression modelling in R"
+  }
+]
